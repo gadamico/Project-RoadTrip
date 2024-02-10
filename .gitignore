@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data construction ntbk -- Need to install bs4 to reproduce!
+state_border_dataset_construction.ipynb
