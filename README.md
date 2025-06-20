@@ -7,5 +7,5 @@ Here are some relevant maps made with `plotly`:
 
 ![borders_without_interstates](images/bord_without_interst.png)
 
-![progress](images/progress081524.png)
+![progress](images/progress052325.png)
 
